@@ -7,7 +7,7 @@ git clone https://github.com/ClementG91/shadcn-ui-clerk-auth-next13.git
 ```
 2.Navigate to the project directory:
 ```bash
-cd ui-clerk-auth-next13
+cd shadcn-ui-clerk-auth-next13
 ```
 3.Install the dependencies using npm:
 ```bash
