@@ -1,4 +1,4 @@
-#Installation
+# Installation
 ## Make sure you have ['Node.js'](https://nodejs.org) installed on your machine.
 
 1.Clone this GitHub repository to your computer using the following command:
