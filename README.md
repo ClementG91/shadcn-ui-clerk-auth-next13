@@ -1,9 +1,9 @@
 # Installation
-## Make sure you have ['Node.js'](https://nodejs.org) installed on your machine.
+## Make sure you have [Node.js](https://nodejs.org) installed on your machine.
 
 1.Clone this GitHub repository to your computer using the following command:
 ```bash
-git clone https://github.com/shadcn/ui-clerk-auth-next13.git
+git clone https://github.com/ClementG91/shadcn-ui-clerk-auth-next13.git
 ```
 2.Navigate to the project directory:
 ```bash
@@ -26,7 +26,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=YOUR_CLERK_KEY
 CLERK_SECRET_KEY=YOUR_CLERK_KEY
 ```
-Make sure to replace YOUR_CLERK_KEY with your Clerk key. You can obtain this key by creating a [Clerk](https://clerk.dev].
+Make sure to replace YOUR_CLERK_KEY with your Clerk key. You can obtain this key by creating a [Clerk](https://clerk.dev).
 
 # Running the Server
 Once you have installed the dependencies and configured the environment variables, you can start the server using the command:
